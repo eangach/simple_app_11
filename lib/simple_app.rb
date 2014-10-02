@@ -3,7 +3,6 @@
   end
 
   def say_bye
-    # Incorrect to help with tests
-    'Hello'
-    # 'Bye'
+    # Now correct to help with tests
+    'Bye'
   end
